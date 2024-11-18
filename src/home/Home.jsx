@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './header'
+import Header from './Header'
 import Content from './Content'
 import BottomNav from '../components/BottomNav'
 
